@@ -1,9 +1,9 @@
 
 
-![logo](https://github.com/Loki-1/Loki-1/blob/master/images/Banner.jpg)
+![logo]()
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokesh+Naagam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shashikanth+Kammari!;" />
 </h1>
 <h2 align="center"> 🚀 Welcome to my GitHub profile! 🛠️ </h2>
 
@@ -20,13 +20,13 @@
 ## ⚡ Updates
 
 - 🔭 I’m currently working in [Tata Consultancy Services](https://www.tcs.com/)<br/>
-- 📫 How to reach me: Email: lokesh.naagam@gmail.com <br/>
+- 📫 How to reach me: Email: shashikanth0312@gmail.com <br/>
 - ⚡ Fun fact: I loves watching cartoon <br/>
 - 🌱 I’m currently learning **AWS DevOps Technology**
 
 ## ⚡ Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/lokesh-naagam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh naagam" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shashikanth-kammari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashikanth kammari" height="30" width="40" /></a>
 </p>
 
 ## ⚡ Tech Stack
