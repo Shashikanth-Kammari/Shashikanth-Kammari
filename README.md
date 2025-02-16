@@ -49,11 +49,11 @@
 ![dynatrace](https://img.shields.io/badge/dynatrace-FF6C37?style=for-the-badge&logo=dynatrace&logoColor=1496FF)
 
 ## ⚡ My GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loki-1&show_icons=true&locale=en&layout=compact" alt="loki-1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashikanth-Kammari&show_icons=true&locale=en&layout=compact" alt="Shashikanth-Kammari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loki-1&show_icons=true&locale=en" alt="loki-1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashikanth-Kammari&show_icons=true&locale=en" alt="Shashikanth-Kammari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loki-1&" alt="loki-1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashikanth-Kammari&" alt="Shashikanth-Kammari" /></p>
 
 <h5 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=15&center=true&vCenter=true&width=500&height=70&duration=9000&lines=In+Top+Repositories;+check+sample+pipeline+script+,+dockerfile+and+kubernetes+manifest+files;please+check+and+give+me+some+ideas+or+updates+through+pull+requests!" />
