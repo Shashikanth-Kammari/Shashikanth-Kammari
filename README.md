@@ -1,69 +1,39 @@
+<h1 align="center">Hi 👋, I'm Shashikanth Kammari</h1>
+<h3 align="center">Cloud DevOps Engineer | Specializing in AWS, or Google Cloud</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashikanth-kammari&label=Profile%20views&color=0e75b6&style=flat" alt="shashikanth-kammari" /> </p>
 
-![logo](github-header-image.png)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashikanth-kammari" alt="shashikanth-kammari" /></a> </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shashikanth+Kammari!;" />
-</h1>
-<h2 align="center"> 🚀 Welcome to My GitHub profile! 🛠️ </h2>
+- 🔭 I’m currently working on **Mobily**
 
-🛢️ I'm a DevOps Engineer from India. As a DevOps engineer, I thrive at the intersection of development and operations, working tirelessly to enhance the efficiency, scalability, and reliability of software systems.</br>
+- 🌱 I’m currently learning **AWS DevOps Engineer Professional**
 
-🔧 My toolkit includes an array of tools and technologies, including Docker, Kubernetes, Jenkins, Terraform, Ansible, and a host of scripting/programming languages. I believe in continuous integration, continuous delivery, and the power of infrastructure as code to streamline the software development lifecycle.</br>
+- 👨‍💻 All of my projects are available at [https://github.com/Shashikanth-Kammari](https://github.com/Shashikanth-Kammari)
 
-🔗 Connect with me to discuss all things DevOps, automation, and how we can work together to drive innovation and excellence in software development. Let's build a future where development and operations work in harmony to deliver exceptional software experiences.</br>
+- 💬 Ask me about **DevOps engineers collaborate closely with IT operations teams, software developers, and other stakeholders to guarantee the effective delivery of software products.**
 
-📫 Feel free to reach out and connect with me here on GitHub or find me on LinkedIn to start a conversation. Let's embark on this DevOps journey together! 🚀</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loki-1&label=Profile%20views&color=0e75b6&style=flat" alt="loki-1" /> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+- 📫 How to reach me **shashikanth0312@gmail.com**
 
-## ⚡ Updates
+- 📄 Know about my experiences [Kammari Shashikanth Chary - SDE.pdf](Kammari Shashikanth Chary - SDE.pdf)
 
-- 🔭 I’m currently working in [Tata Consultancy Services](https://www.tcs.com/)<br/>
-- 📫 How to reach me: Email: shashikanth0312@gmail.com <br/>
-- ⚡ Fun fact: I loves watching cartoon <br/>
-- 🌱 I’m currently learning **AWS DevOps Technology**
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## ⚡ Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/shashikanth-kammari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashikanth kammari" height="30" width="40" /></a>
+<a href="https://dev.to/shashikanth-kammari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shashikanth-kammari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/shashikanth-kammari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shashikanth-kammari" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shashikanth-kammari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shashikanth-kammari" height="30" width="40" /></a>
+<a href="/https://github.com/shashikanth-kammari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/shashikanth-kammari" height="30" width="40" /></a>
 </p>
 
-## ⚡ Tech Stack
-![AWS](https://img.shields.io/badge/Amazon_AWS-092E20?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-0078D4?style=for-the-badge&logo=apachemaven&logoColor=white)
-![sonarqube](https://img.shields.io/badge/-sonarqube-00979D?style=for-the-badge&logo=sonarqube&logoColor=white) 
-![Nexus](https://img.shields.io/badge/Nexus-%23EB0443.svg?style=for-the-badge&logo=sonatype&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Prom](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
-![dynatrace](https://img.shields.io/badge/dynatrace-FF6C37?style=for-the-badge&logo=dynatrace&logoColor=1496FF)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
-## ⚡ My GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashikanth-Kammari&show_icons=true&locale=en&layout=compact" alt="Shashikanth-Kammari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashikanth-kammari&show_icons=true&locale=en&layout=compact" alt="shashikanth-kammari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashikanth-Kammari&show_icons=true&locale=en" alt="Shashikanth-Kammari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashikanth-kammari&show_icons=true&locale=en" alt="shashikanth-kammari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashikanth-Kammari&" alt="Shashikanth-Kammari" /></p>
-
-<h5 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=15&center=true&vCenter=true&width=500&height=70&duration=9000&lines=In+Top+Repositories;+check+sample+pipeline+script+,+dockerfile+and+kubernetes+manifest+files;please+check+and+give+me+some+ideas+or+updates+through+pull+requests!" />
-</h5>
-
-## ⚡ Top Repositories
-<a href="https://github.com/Loki-1/SpringBootApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loki-1&repo=SpringBootApp&theme=buefy" />
-</a>
-<a href="https://github.com/Loki-1/Webapp-Resume-Pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loki-1&repo=Webapp-Resume-Pipeline&theme=buefy" />
-</a>
-<hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashikanth-kammari&" alt="shashikanth-kammari" /></p>
