@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashikanth-kammari" alt="shashikanth-kammari" /></a> </p>
 
-- 🔭 I’m currently working on **Mobily**
-- 
 - 🔭 I’m currently working in [Tata Consultancy Services](https://www.tcs.com/)
 
 - 🌱 I’m currently learning **AWS DevOps Engineer Professional**
