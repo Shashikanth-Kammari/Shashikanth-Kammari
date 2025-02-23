@@ -1,3 +1,5 @@
+![logo](github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Shashikanth Kammari</h1>
 <h3 align="center">Cloud DevOps Engineer | Specializing in AWS, or Google Cloud</h3>
 
