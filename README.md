@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mobily**
 - 
-- - 🔭 I’m currently working in [Tata Consultancy Services](https://www.tcs.com/
+- 🔭 I’m currently working in [Tata Consultancy Services](https://www.tcs.com/)
 
 - 🌱 I’m currently learning **AWS DevOps Engineer Professional**
 
