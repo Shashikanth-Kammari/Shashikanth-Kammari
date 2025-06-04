@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in [Tata Consultancy Services](https://www.tcs.com/)
 
-- 🌱 I’m currently learning **AWS DevOps Engineer Professional**
+- 🌱 I’m currently learning **AWS DevOps Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shashikanth-Kammari](https://github.com/Shashikanth-Kammari)
 
