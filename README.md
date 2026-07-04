@@ -1,7 +1,7 @@
 ![logo](github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Shashikanth Kammari</h1>
-<h3 align="center">Devops Engineer | AWS, or Google Cloud</h3>
+<h3 align="center">Devops Engineer | AWS and Google Cloud</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashikanth-kammari&label=Profile%20views&color=0e75b6&style=flat" alt="shashikanth-kammari" /> </p>
 
