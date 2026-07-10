@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **shashikanth0312@gmail.com**
 
-- 📄 Resume: [Kammari Shashikanth Chary - SDE.pdf](./Kammari%20Shashikanth%20Chary%20-%20SDE.pdf)
+- 📄 Resume: [Kammari Shashikanth Chary - SDE.pdf](file:///C:/Users/shash/OneDrive/Desktop/My%20CV's/Kammari_Shashikanth_Resume.pdf)
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
