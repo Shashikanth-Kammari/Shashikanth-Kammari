@@ -1,0 +1,60 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a5f"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#2d4a6b" stroke-width="0.5" opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- Decorative circuit-style nodes -->
+  <g opacity="0.35" stroke="#38bdf8" stroke-width="1.5" fill="none">
+    <circle cx="1050" cy="70" r="6" fill="#38bdf8"/>
+    <circle cx="1120" cy="120" r="6" fill="#38bdf8"/>
+    <circle cx="1000" cy="150" r="6" fill="#38bdf8"/>
+    <circle cx="1080" cy="200" r="6" fill="#38bdf8"/>
+    <line x1="1050" y1="70" x2="1120" y2="120"/>
+    <line x1="1120" y1="120" x2="1080" y2="200"/>
+    <line x1="1000" y1="150" x2="1120" y2="120"/>
+    <line x1="1000" y1="150" x2="1080" y2="200"/>
+  </g>
+
+  <!-- Cloud shape motif -->
+  <g opacity="0.25" fill="#38bdf8">
+    <path d="M 900 240 Q 890 220 910 215 Q 915 195 940 200 Q 955 185 975 200 Q 995 195 995 215 Q 1015 220 1005 240 Z"/>
+  </g>
+
+  <!-- Main text -->
+  <text x="70" y="130" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#f8fafc">
+    Shashikanth Kammari
+  </text>
+  <text x="70" y="175" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#7dd3fc">
+    DevOps Engineer &#183; AWS &amp; Google Cloud
+  </text>
+
+  <!-- Accent line -->
+  <rect x="70" y="195" width="120" height="4" rx="2" fill="#38bdf8"/>
+
+  <!-- Tag pills -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">
+    <rect x="70" y="220" width="72" height="30" rx="15" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+    <text x="106" y="240" text-anchor="middle" fill="#7dd3fc">AWS</text>
+
+    <rect x="152" y="220" width="72" height="30" rx="15" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+    <text x="188" y="240" text-anchor="middle" fill="#7dd3fc">GCP</text>
+
+    <rect x="234" y="220" width="90" height="30" rx="15" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+    <text x="279" y="240" text-anchor="middle" fill="#7dd3fc">Docker</text>
+
+    <rect x="334" y="220" width="110" height="30" rx="15" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+    <text x="389" y="240" text-anchor="middle" fill="#7dd3fc">Kubernetes</text>
+
+    <rect x="454" y="220" width="94" height="30" rx="15" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+    <text x="501" y="240" text-anchor="middle" fill="#7dd3fc">Jenkins</text>
+  </g>
+</svg>
