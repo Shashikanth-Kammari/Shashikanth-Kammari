@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashikanth-kammari&hide_border=true" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=shashikanth-kammari&hide_border=true" alt="streak stats" />
 </div>
 
 <br/>
