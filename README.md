@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Shashikanth-Kammari"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:shashikanth0312@gmail.com"><img src="https://img.shields.io/badge/Email-shashikanth0312%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:9493220073"><img src="https://img.shields.io/badge/Phone-9493220073-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -65,19 +65,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashikanth-Kammari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikanth-Kammari&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashikanth-Kammari&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikanth-Kammari&theme=tokyo-night&hide_border=true" width="80%" />
 </p>
 
-> ⚠️ Replace **`YOUR_GITHUB_USERNAME`** everywhere in this file with your actual GitHub username for the stats cards to render correctly.
+> ⚠️ Replace **`Shashikanth-Kammari`** everywhere in this file with your actual GitHub username for the stats cards to render correctly.
 
 ---
 
@@ -114,9 +114,9 @@
 <p align="center">
   <a href="mailto:shashikanth0312@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Shashikanth-Kammari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Shashikanth-Kammari&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
