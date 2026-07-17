@@ -75,7 +75,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikanth-Kammari&theme=tokyo-night&hide_border=true" width="80%" />
 </p>
 
-> ⚠️ Replace **`Shashikanth-Kammari`** everywhere in this file with your actual GitHub username for the stats cards to render correctly.
 
 ---
 
