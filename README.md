@@ -65,16 +65,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://img.shields.io/badge/1%2C374-Contributions%20in%20the%20Last%20Year-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shashikanth-Kammari&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikanth-Kammari&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shashikanth-Kammari&theme=tokyonight&hide_border=true" width="49%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikanth-Kammari&theme=tokyo-night&hide_border=true" width="80%" />
 </p>
-
 
 ---
 
