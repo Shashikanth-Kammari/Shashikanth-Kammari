@@ -1,70 +1,122 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kammari Shashikanth Chary</h1>
+<h3 align="center">☁️ Cloud DevOps Engineer | AWS & GCP | Kubernetes | CI/CD Automation</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Shashikanth%20Kammari&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20%26%20GCP&descAlignY=60&descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+DevOps+Engineer+%7C+4.2%2B+Years+Experience;AWS+%7C+GCP+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+%7C+DevSecOps+%7C+SRE" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Automating+infrastructure%2C+one+pipeline+at+a+time;CI%2FCD+%7C+Cloud+%7C+Containers+%7C+Reliability;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:shashikanth0312@gmail.com"><img src="https://img.shields.io/badge/Email-shashikanth0312%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:9493220073"><img src="https://img.shields.io/badge/Phone-9493220073-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=shashikanth-kammari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-&nbsp;
-<a href="https://www.linkedin.com/in/shashikanth-kammari"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:shashikanth0312@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0e75b6?style=flat&logo=gmail&logoColor=white" /></a>
+---
 
-</div>
+### 🧑‍💻 About Me
 
-<br/>
+- 🔭 Cloud DevOps Engineer with **4.2+ years** of experience automating, securing, and supporting enterprise cloud infrastructure across **AWS** and **GCP**
+- 🏢 Currently working as **DevOps Engineer @ TCS**, supporting large-scale e-commerce platforms for **Macy's** and **Bloomingdale's**
+- 🌱 Hands-on with **Terraform, Kubernetes (EKS/GKE), Jenkins, Docker, Argo CD, Spinnaker**
+- 🛡️ Passionate about **DevSecOps**, release governance, and building resilient, audit-ready cloud environments
+- 📈 Track record: **99.9% uptime**, **40% reduction** in manual deployment effort, **20% fewer production incidents**
+- 💬 Ask me about: CI/CD pipelines, Kubernetes troubleshooting, cloud IaC, and production incident response
+- 📄 [Resume / Portfolio](#) &nbsp;|&nbsp; 🏆 Certified Kubernetes Administrator, AWS DevOps Engineer – Professional
 
-## 👨‍💻 About Me
+---
 
-- 🔭 Currently working as a **DevOps Engineer** at [Tata Consultancy Services](https://www.tcs.com/)
-- 🌱 Currently leveling up my **AWS DevOps Engineer** skills
-- 💬 Ask me about **CI/CD pipelines, cloud infrastructure (AWS/GCP), containerization, and reliable deployment workflows**
-- 🤝 I enjoy collaborating with development, IT operations, and QA teams to ship software faster and more reliably
-- 📂 Check out all my projects: [github.com/Shashikanth-Kammari](https://github.com/Shashikanth-Kammari)
-- 📫 Reach me at **shashikanth0312@gmail.com**
-- 📄 [Download my Resume](#) <!-- replace # with a hosted link, e.g. a PDF in a public repo or Google Drive share link -->
+### 🛠️ Tech Stack
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,jenkins,githubactions,git,github,python,bash,powershell,linux,grafana,prometheus,ansible,redis,postgres,mysql,vscode&theme=dark" />
+</p>
 
-## 🏆 GitHub Trophies
+<details>
+<summary><b>📋 Full Skill Breakdown</b></summary>
+<br>
 
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashikanth-kammari&theme=flat&column=7&margin-w=15&margin-h=15" alt="shashikanth-kammari" /></a>
-</div>
+**Cloud Platforms:** AWS · Google Cloud Platform
 
-<br/>
+**AWS Services:** EC2 · S3 · IAM · VPC · EKS · ECS · ECR · Lambda · RDS · Route 53 · CloudWatch · CloudTrail · CodePipeline · CodeBuild · CodeDeploy · Secrets Manager · KMS · CloudFormation
 
-## 🛠️ Languages & Tools
+**GCP Services:** Compute Engine · GKE · Cloud Storage · IAM · VPC · Cloud Load Balancing · Cloud DNS · Cloud Functions · Cloud Run · Cloud Build · Artifact Registry · Secret Manager · Cloud Monitoring/Logging
 
-<div align="center">
+**GCP Data Services:** BigQuery · Cloud Spanner · Cloud SQL · Pub/Sub · Dataflow · Dataproc · Cloud Composer · Bigtable · Memorystore (Redis) · Cassandra
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,circleci,travis,grafana,git,linux,bash,python,java,mysql,selenium" />
+**CI/CD:** Jenkins · Jenkins Pipelines · GitHub Actions · Spinnaker · Argo CD · Cloud Build · AWS CodePipeline
 
-</div>
+**Containers & Orchestration:** Docker · Kubernetes · GKE · EKS · Helm Charts · Ingress · ConfigMaps · Secrets
 
-<br/>
+**IaC & Automation:** Terraform · Terraform Modules · Ansible · Bash · Python · YAML/JSON
 
-## 📊 GitHub Stats
+**Monitoring & Logging:** Prometheus · Grafana · CloudWatch · Cloud Monitoring · Cloud Logging
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shashikanth-kammari&show_icons=true&theme=default&hide_border=true&count_private=true" alt="shashikanth-kammari stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikanth-kammari&layout=compact&hide_border=true" alt="top languages" width="48%" />
-</div>
+**DevSecOps:** SonarQube · IAM/RBAC · Secrets Management · Vulnerability Scanning · Branch Protection
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=shashikanth-kammari&hide_border=true" alt="streak stats" />
-</div>
+**Source & Artifact Mgmt:** Git · GitHub · GitLab · Bitbucket · Nexus · JFrog Artifactory
 
-<br/>
+**Collaboration:** Jira · Confluence · Agile/Scrum
 
-## 🌐 Connect with Me
+</details>
 
-<div align="center">
-<a href="https://dev.to/shashikanth-kammari" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="35" width="45" /></a>
-<a href="https://www.linkedin.com/in/shashikanth-kammari" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shashikanth-kammari" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="35" width="45" /></a>
-</div>
+---
 
-<br/>
+### 📊 GitHub Stats
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="80%" />
+</p>
+
+> ⚠️ Replace **`YOUR_GITHUB_USERNAME`** everywhere in this file with your actual GitHub username for the stats cards to render correctly.
+
+---
+
+### 💼 Experience Highlights — DevOps Engineer @ TCS (May 2022 – Present)
+
+| Area | Impact |
+|---|---|
+| 🚀 Deployment Automation | Reduced manual deployment effort by **40%** using Jenkins, Bash & Python |
+| ⚙️ Pipeline Optimization | Improved build execution efficiency by **30%** via Jenkins pipeline tuning |
+| 📦 Containerization | Designed & maintained **50+ Docker images** for multi-environment deployments |
+| ✅ Deployment Validation | Cut environment verification time by **25%** with automated Build Acceptance Tests |
+| 🔥 Reliability | Improved uptime reliability to **99.9%** through proactive monitoring |
+| 🛡️ Incident Reduction | Reduced production incidents by **20%** via monitoring & K8s troubleshooting |
+| 🎫 Ticket Resolution | Resolved **200+** deployment-related Jira tickets |
+
+---
+
+### 🏆 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20Certified-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified-Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-Administration%20Certified-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Actions%20Certified-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Generative%20AI%20Leader-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:shashikanth0312@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
