@@ -1,24 +1,23 @@
-```markdown
 <div align="center">
 
-# 👋 Hi, I'm **Kammari Shashikanth Chary**
+# 👋 Hi, I'm Kammari Shashikanth Chary
 
 ### ☁️ Cloud DevOps Engineer | AWS | GCP | Kubernetes | Terraform | CI/CD | DevSecOps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Cloud+DevOps+Engineer;AWS+%7C+GCP+%7C+Kubernetes+Specialist;Terraform+%7C+Docker+%7C+Jenkins;DevSecOps+%7C+Automation+%7C+SRE;Building+Reliable+Cloud+Infrastructure" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=900&lines=Cloud+DevOps+Engineer;AWS+%7C+Google+Cloud+Platform;Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+Automation+%7C+DevSecOps;Building+Scalable+Cloud+Infrastructure" />
 
 <br>
 
 <a href="https://github.com/Shashikanth-Kammari">
-<img src="https://img.shields.io/github/followers/Shashikanth-Kammari?style=for-the-badge&logo=github&label=Follow"/>
+<img src="https://img.shields.io/github/followers/Shashikanth-Kammari?logo=github&style=for-the-badge"/>
 </a>
 
 <a href="mailto:shashikanth0312@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Shashikanth-Kammari&style=for-the-badge&color=blue"/>
@@ -29,167 +28,170 @@
 
 # 🚀 About Me
 
-I'm a **Cloud DevOps Engineer** with **4.2+ years of experience** designing, automating, and managing enterprise cloud infrastructure across **AWS** and **Google Cloud Platform**.
+💻 DevOps Engineer with **4.2+ years** of experience in designing, automating, and maintaining enterprise cloud infrastructure across **AWS** and **Google Cloud Platform**.
 
-Currently working at **Tata Consultancy Services (TCS)**, where I support mission-critical e-commerce applications for **Macy's** and **Bloomingdale's**, delivering scalable infrastructure, CI/CD automation, Kubernetes administration, and production support.
+🏢 **Current Company:** Tata Consultancy Services (TCS)
 
-### 💡 Highlights
-
-- ☁️ Multi-Cloud Engineer (AWS & GCP)
-- 🚀 Built scalable CI/CD pipelines using Jenkins & GitHub Actions
-- 🐳 Managed Docker & Kubernetes (EKS/GKE) workloads
-- ⚙️ Automated infrastructure using Terraform & Ansible
-- 📈 Improved deployment efficiency by **40%**
-- 🔥 Reduced production incidents by **20%**
-- 📊 Maintained **99.9% application availability**
-- 🛡️ Passionate about DevSecOps & Infrastructure as Code
+🛍️ **Project:** Macy's & Bloomingdale's E-Commerce Platform
 
 ---
 
-# 🛠 Tech Stack
+## 🔥 Professional Highlights
+
+- ☁️ AWS & Google Cloud Platform
+- 🚀 CI/CD Automation using Jenkins & GitHub Actions
+- 🐳 Docker & Kubernetes (EKS/GKE)
+- ⚙️ Infrastructure as Code with Terraform & Ansible
+- 📊 Monitoring using Prometheus, Grafana & CloudWatch
+- 🛡️ DevSecOps & Security Best Practices
+- 📈 Reduced deployment effort by **40%**
+- ⚡ Improved build performance by **30%**
+- 🔥 Reduced production incidents by **20%**
+- 📊 Achieved **99.9% Availability**
+
+---
+
+# 💻 Tech Stack
 
 ## ☁️ Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp" />
+<img src="https://skillicons.dev/icons?i=aws,gcp"/>
 </p>
 
 ## 🚀 DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,ansible" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,ansible"/>
 </p>
 
 ## 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux" />
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux"/>
 </p>
 
-## 📦 Databases
+## 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis"/>
 </p>
 
 ## 📊 Monitoring
 
 <p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
 </p>
 
-## 🔧 Source Control
+## 🔧 Version Control
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
 </p>
 
 ---
 
-# 📌 Core Expertise
+# 📌 Core Skills
 
-- AWS Cloud
-- Google Cloud Platform
-- Kubernetes (EKS & GKE)
-- Docker
-- Terraform
-- Jenkins
-- GitHub Actions
-- Argo CD
-- Helm
-- Ansible
-- Bash
-- Python
-- Prometheus
-- Grafana
-- CloudWatch
-- IAM & RBAC
-- DevSecOps
-- CI/CD Automation
-- Infrastructure as Code
+| Category | Technologies |
+|-----------|--------------|
+| Cloud | AWS, Google Cloud Platform |
+| Containers | Docker, Kubernetes, Helm |
+| IaC | Terraform, Ansible |
+| CI/CD | Jenkins, GitHub Actions, Argo CD |
+| Monitoring | Prometheus, Grafana, CloudWatch |
+| Security | IAM, RBAC, Secrets Manager |
+| Languages | Python, Bash, PowerShell |
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
-## DevOps Engineer | Tata Consultancy Services
+## 🚀 DevOps Engineer — Tata Consultancy Services
 
 **May 2022 – Present**
 
-### Key Contributions
-
-- 🚀 Automated enterprise deployments using Jenkins pipelines, reducing manual effort by **40%**
-- ⚙️ Optimized CI/CD workflows, improving build performance by **30%**
-- 🐳 Built and maintained **50+ Docker images** across multiple environments
-- ☁️ Managed Kubernetes workloads on AWS EKS and Google GKE
-- 📊 Implemented monitoring with Prometheus, Grafana, CloudWatch & Cloud Logging
-- 🔍 Troubleshot production issues, reducing incidents by **20%**
-- 📦 Automated infrastructure provisioning using Terraform
-- 🧪 Developed deployment validation and smoke-test automation
-- 🎫 Successfully resolved **200+ production deployment issues**
+| Achievement | Impact |
+|------------|--------|
+| 🚀 Deployment Automation | Reduced manual effort by **40%** |
+| ⚙️ CI/CD Optimization | Improved build speed by **30%** |
+| 🐳 Docker | Managed **50+ Docker Images** |
+| ☸ Kubernetes | EKS & GKE Administration |
+| 📊 Monitoring | Prometheus, Grafana, CloudWatch |
+| 🔥 Production Support | Reduced incidents by **20%** |
+| 🎫 Jira | Resolved **200+ Tickets** |
 
 ---
 
 # 🚀 Featured Projects
 
-## Terraform AWS Infrastructure
+## ☁️ AWS Infrastructure Automation
 
-Provisioning complete AWS infrastructure using Terraform modules.
+Provision complete AWS infrastructure using Terraform modules.
 
-**Technologies**
+**Tech Stack**
 
 - Terraform
-- EC2
-- IAM
+- AWS EC2
 - VPC
-- ALB
+- IAM
 - Route53
+- ALB
 - Auto Scaling
 
 ---
 
-## Kubernetes CI/CD Pipeline
+## ☸ Kubernetes CI/CD Pipeline
 
-Enterprise deployment pipeline using Jenkins, Docker, Helm and Kubernetes.
+Enterprise-grade deployment automation.
 
-**Technologies**
+**Tools**
 
 - Jenkins
 - Docker
 - Kubernetes
 - Helm
-- GitHub
 - SonarQube
+- GitHub
 
 ---
 
-## Cloud Monitoring Stack
+## 📊 Monitoring Stack
 
-Complete monitoring solution with Prometheus & Grafana.
+Production monitoring using
 
-**Features**
-
-- Node Exporter
-- Alert Manager
-- Dashboards
-- Application Monitoring
-- Infrastructure Monitoring
+- Prometheus
+- Grafana
+- AlertManager
+- CloudWatch
 
 ---
 
-# 📈 GitHub Analytics
+## 🚀 DevSecOps Pipeline
+
+Integrated
+
+- SonarQube
+- Docker
+- Jenkins
+- Kubernetes
+- Terraform
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shashikanth-Kammari&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashikanth-Kammari&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Shashikanth-Kammari&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Shashikanth-Kammari&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikanth-Kammari&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikanth-Kammari&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -205,31 +207,28 @@ Complete monitoring solution with Prometheus & Grafana.
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
-- ✅ 4.2+ Years of DevOps Experience
-- ✅ Multi-Cloud (AWS & GCP)
-- ✅ Kubernetes Administration
-- ✅ Terraform Infrastructure Automation
-- ✅ Enterprise CI/CD Implementation
-- ✅ Production Support & Incident Management
-- ✅ Infrastructure Monitoring
-- ✅ DevSecOps Best Practices
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shashikanth-Kammari&theme=tokyonight&row=1&column=7"/>
+
+</p>
 
 ---
 
 # 📚 Currently Learning
 
-- Platform Engineering
 - GitOps
+- Argo CD
 - Crossplane
-- Kubernetes Operators
-- AI for DevOps
+- Platform Engineering
 - OpenTelemetry
+- AI for DevOps
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -251,11 +250,10 @@ Complete monitoring solution with Prometheus & Grafana.
 
 <div align="center">
 
-### ⭐ "Automate everything that can be automated."
+## ⭐ Quote
 
-**Thanks for visiting my profile!**
+### *"Automate everything that can be automated. Simplicity scales."*
 
-If you like my projects, consider giving them a ⭐.
+⭐ **If you like my work, consider giving a star to my repositories!**
 
 </div>
-```
