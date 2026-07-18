@@ -183,7 +183,9 @@ Integrated
 
 <p align="center">
 
-<img width="49%" src=https://github-contributions.vercel.app/api/v1/Shashikanth-Kammari?theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashikanth-Kammari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Shashikanth-Kammari&theme=tokyonight&hide_border=true&border_radius=12"/>
+
 <img width="49%" src="https://streak-stats.demolab.com?user=Shashikanth-Kammari&theme=tokyonight&hide_border=true"/>
 
 </p>
