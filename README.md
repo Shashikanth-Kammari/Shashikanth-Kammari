@@ -189,11 +189,6 @@ Integrated
 
 </p>
 
-<p align="center">
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikanth-Kammari&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
