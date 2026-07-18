@@ -200,9 +200,7 @@ Integrated
 # 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikanth-Kammari&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikanth-Kammari&theme=react-dark&hide_border=true&area=true&radius=16" width="100%">
 </p>
 
 ---
