@@ -187,6 +187,10 @@ Integrated
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Shashikanth-Kammari&theme=tokyonight&hide_border=true"/>
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Shashikanth&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Shashikanth&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shashikanth&layout=compact&theme=gruvbox)
+
 </p>
 
 ---
